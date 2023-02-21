@@ -5,7 +5,7 @@ image: pic.jpg
 about:
     template: jolla
     image-shape: round
-    image-width: 15cm
+    image-width: 5cm
     links:
       - icon: envelope
         text: Mail
