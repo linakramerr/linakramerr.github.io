@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: CV
+        href: CV.pdf
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

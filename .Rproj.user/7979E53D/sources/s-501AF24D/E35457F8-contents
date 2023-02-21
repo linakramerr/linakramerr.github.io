@@ -1,0 +1,25 @@
+---
+title: "Hi! I'm Lina."
+subtitle: "Statistician in training."
+image: pic.jpg
+about:
+    template: jolla
+    image-shape: round
+    image-width: 15cm
+    links:
+      - icon: envelope
+        text: Mail
+        href: mailto:l.kramer4@uu.nl
+      - icon: github
+        text: Github
+        href: https://github.com/linakramerr
+      - icon: orcid
+        text: ORCID
+        href: https://orcid.org/0000-0002-7282-555X
+      - icon: linkedin
+        text: linkedin
+        href: https://linkedin.com/in/linakramer015
+        
+---
+
+Master's student at Utrecht University; enthusiastic about research in methodology and statistics - and bridging the gap for those who use them.
