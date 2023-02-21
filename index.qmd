@@ -1,6 +1,6 @@
 ---
 title: "Hi! I'm Lina."
-subtitle: "Statistician in training."
+subtitle: "[Statistician in training]"
 image: pic.jpg
 about:
     template: jolla
@@ -24,7 +24,7 @@ about:
 
 Enthusiastic about research in methodology and statistics - and bridging the gap for those who use them. Currently a master's student at Utrecht University. 
 
-Right now, I am trying to understand dynamic longitudinal data models and their sensitivity to measurement error.
+Right now, I am attempting to understand dynamic longitudinal data models and their sensitivity to measurement error.
 
 
 <font size="3"> *“To understand the world at all, sometimes you could only focus on a tiny bit of it, look very hard at what was close to hand and make it stand in for the whole;”*
