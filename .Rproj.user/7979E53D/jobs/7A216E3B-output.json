@@ -1,7 +1,0 @@
-[2,"\n"]
-[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: flatly\n  title: Hi! I'm Lina.\n  subtitle: Statistician in training.\n  image: pic.jpg\n  about:\n    template: jolla\n    image-shape: round\n    image-width: 15cm\n    links:\n      - icon: envelope\n        text: Mail\n        href: 'mailto:l.kramer4@uu.nl'\n      - icon: github\n        text: Github\n        href: 'https://github.com/linakramerr'\n      - icon: orcid\n        text: ORCID\n        href: 'https://orcid.org/0000-0002-7282-555X'\n      - icon: linkedin\n        text: linkedin\n        href: 'https://linkedin.com/in/linakramer015'\n  \n"]
-[1,"Output created: _site\\index.html\n\nTerminating existing preview server...."]
-[1,"DONE\n\nPreparing to preview\n"]
-[1,"\n"]
-[1,"Watching files for changes\nBrowse at http://localhost:5524/\n"]
-[1,"GET: /\n"]
