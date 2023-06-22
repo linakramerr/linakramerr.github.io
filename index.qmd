@@ -22,10 +22,7 @@ about:
         
 ---
 
-Enthusiastic about research in methodology and statistics - and bridging the gap for those who use them. Currently a master's student at Utrecht University. 
-
-Right now, I am attempting to understand dynamic longitudinal data models and their sensitivity to measurement error.
-
+Enthusiastic about research in methodology and statistics - and bridging the gap for those who use them. Recently graduated from the Research Master's in Methodology and Statistics for the Behavioral, Biomedical, and Social Sciences from Utrecht University. 
 
 <font size="3"> *“To understand the world at all, sometimes you could only focus on a tiny bit of it, look very hard at what was close to hand and make it stand in for the whole.”*
 ― Donna Tartt, The Goldfinch </font> 
