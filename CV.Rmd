@@ -28,7 +28,7 @@ urlcolor: gray
 **MSc Methodology & Statistics**  
 *Utrecht University, The Netherlands* \hfill 2021 - Current
 
-◦ Thesis: A tool for sensitivity analysis for cross-lagged panel research (supervised by [Prof. Dr. Ellen Hamaker](https://www.uu.nl/staff/ELHamaker) & [Jeroen Mulder](https://www.uu.nl/staff/JDMulder))
+◦ Thesis: A tool for sensitivity analysis for cross-lagged panel research
 
 **BSc Psychology**  
 *Leuphana University Lüneburg, Germany* \hfill 2017 - 2021
