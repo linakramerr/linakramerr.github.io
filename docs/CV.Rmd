@@ -1,0 +1,75 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Lina Kramer
+
+address: "Utrecht, The Netherlands"
+fontawesome: yes
+email: l.kramer@uu.nl
+github: linakramerr
+orcid : "0000-0002-7282-555X"
+
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+#eywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: gray
+urlcolor: gray
+---
+
+# EDUCATION
+
+**MSc Methodology & Statistics**  
+*Utrecht University, The Netherlands* \hfill 2021 - Current
+
+◦ Thesis: A tool for sensitivity analysis for cross-lagged panel research
+
+**BSc Psychology**  
+*Leuphana University Lüneburg, Germany* \hfill 2017 - 2021
+
+
+# EXPERIENCE
+
+
+**Teaching Assistant**  
+*Utrecht University Courses:* \hfill 2021 - Current  
+
+<ul>
+  <li>◦'Advanced Research Methodology and Statistics' (Undergraduate course).</li>
+  <li>◦'Applied Multivariate Statistics' (Post-graduate course, Utrecht Summer School).</li>
+  <li>◦'Data Science: Statistical Programming with R' (Post-graduate course, Utrecht Summer School).</li>
+</ul>
+ 
+ 
+
+**Research Assistant**  
+*Utrecht University*  \hfill 2021-2022  
+
+<ul>
+  <li> ◦ Creating statistics lessons (theoretical lessons and applied JASP tutorials) for an online learning platform. </li>
+</li>
+  
+*Leuphana University Lüneburg*  \hfill 2019-2021  
+
+◦ Student research assistant at the Leuphana University Institute of Psychology (literature research, data collection, and data analysis).  
+  
+  
+-------------------------------------------------------------------------------
+**STATISTICAL SOFTWARE** 
+
+◦ R  
+◦ SPSS  
+◦ JAGS  
+◦ MPlus  
+◦ JASP  
+◦ HLM  
+◦ Basic python (including PyTorch and TensorFlow)  
+
+
+
