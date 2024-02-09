@@ -7,7 +7,7 @@ author: Lina Kramer
 
 address: "Utrecht, The Netherlands"
 fontawesome: yes
-email: l.kramer@uu.nl
+email: l.kramer1@amsterdamumc.nl
 github: linakramerr
 orcid : "0000-0002-7282-555X"
 
