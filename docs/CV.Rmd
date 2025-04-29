@@ -7,14 +7,14 @@ author: Lina Kramer
 
 address: "Utrecht, The Netherlands"
 fontawesome: yes
-email: l.kramer@uu.nl
+email: l.kramer1@amsterdamumc.nl
 github: linakramerr
 orcid : "0000-0002-7282-555X"
 
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
 
-#eywords: R Markdown, academic CV, template
+#keywords: R Markdown, academic CV, template
 
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -25,10 +25,11 @@ urlcolor: gray
 
 # EDUCATION
 
-**MSc Methodology & Statistics**  
-*Utrecht University, The Netherlands* \hfill 2021 - Current
+**PhD project in causal inference for acute lung injury**  
+*Amsterdam UMC, The Netherlands* \hfill 2023 -current
 
-◦ Thesis: A tool for sensitivity analysis for cross-lagged panel research
+**MSc Methodology & Statistics**  
+*Utrecht University, The Netherlands* \hfill 2021 -2023
 
 **BSc Psychology**  
 *Leuphana University Lüneburg, Germany* \hfill 2017 - 2021
@@ -38,7 +39,7 @@ urlcolor: gray
 
 
 **Teaching Assistant**  
-*Utrecht University Courses:* \hfill 2021 - Current  
+*Utrecht University Courses:* \hfill 2021 - 2023  
 
 <ul>
   <li>◦'Advanced Research Methodology and Statistics' (Undergraduate course).</li>
@@ -68,7 +69,6 @@ urlcolor: gray
 ◦ JAGS  
 ◦ MPlus  
 ◦ JASP  
-◦ HLM  
 ◦ Basic python (including PyTorch and TensorFlow)  
 
 
