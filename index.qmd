@@ -26,7 +26,7 @@ Enthusiastic about research in methodology and statistics - especially for inten
 
 After completing a research Master's in Methodology and Statistics for the Behavioral, Biomedical, and Social Sciences (what a name) at Utrecht University, I began my PhD at the Amsterdam UMC with Dr. Lieuwe D.J. Bos and Dr. Martijn W. Heijmans. 
 
-My research focuses on causal inference for intensive care data. In this field, we have methodological questions that are specific to the ICU: how can we account for informative censoring and competing events (patients die or are discharged from the intensive care unit)? How to model complex underlying biological mechanisms? Can we deal with heterogeneous patient populations? And what about the fact that interventions probably do not have **one** stable effect but their effectiveness varies over time?  
+My research focuses on causal inference for intensive care data. In this field, we have methodological questions that are specific to the ICU: how can we account for informative censoring and competing events (patients die or are discharged from the intensive care unit)? How to model complex underlying biological mechanisms? Can we deal with heterogeneous patient populations? And what about the fact that interventions probably do not have *one* stable effect but their effectiveness varies over time?  
 
 <font size="3"> *“To understand the world at all, sometimes you could only focus on a tiny bit of it, look very hard at what was close to hand and make it stand in for the whole.”*
 ― Donna Tartt, The Goldfinch </font> 
